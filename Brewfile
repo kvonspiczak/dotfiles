@@ -29,6 +29,5 @@ cask install slack
 cask install skype
 cask install tower
 cask install transmit
-cask install reeder
 cask install vlc
 cask install the-unarchiver
