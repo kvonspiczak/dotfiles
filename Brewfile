@@ -13,6 +13,7 @@ install sudolikeaboss
 install caskroom/cask/brew-cask
 
 # Install Casks
+cask install sublime-text
 cask install alfred
 cask install flux
 cask install spectacle
@@ -27,6 +28,7 @@ cask install phpstorm
 cask install slack
 cask install skype
 cask install tower
+cask install transmit
 cask install reeder
 cask install vlc
 cask install the-unarchiver
