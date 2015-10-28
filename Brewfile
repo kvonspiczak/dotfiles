@@ -6,6 +6,8 @@ install optipng
 install mysql
 install phpunit
 install postgresql
+tap ravenac95/sudolikeaboss
+install sudolikeaboss
 
 # Install Cask
 install caskroom/cask/brew-cask
