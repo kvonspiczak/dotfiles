@@ -1,30 +1,30 @@
 # Kevin's awesome Brewfile With Casks
-install openssl
-install wget
-install mysql
-install phpunit
-tap ravenac95/sudolikeaboss
-install sudolikeaboss
+brew 'openssl'
+brew 'wget'
+brew 'mysql'
+brew 'phpunit'
+tap 'ravenac95/sudolikeaboss'
+brew 'sudolikeaboss'
 
 # Install Cask
-install caskroom/cask/brew-cask
+install 'caskroom/cask/brew-cask'
 
 # Install Casks
-cask install sublime-text
-cask install alfred
-cask install flux
-cask install spectacle
-cask install beardedspice
-cask install virtualbox
+cask 'sublime-text'
+cask 'alfred'
+cask 'flux'
+cask 'spectacle'
+cask 'beardedspice'
+cask 'virtualbox'
 
-cask install google-chrome
-cask install dropbox
-cask install iterm2
-cask install phpstorm
+cask 'google-chrome'
+cask 'dropbox'
+cask 'iterm2'
+cask 'phpstorm'
 
-cask install slack
-cask install skype
-cask install tower
-cask install transmit
-cask install vlc
-cask install the-unarchiver
+cask 'slack'
+cask 'skype'
+cask 'tower'
+cask 'transmit'
+cask 'vlc'
+cask 'the-unarchiver'
