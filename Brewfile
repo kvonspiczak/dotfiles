@@ -1,11 +1,8 @@
 # Kevin's awesome Brewfile With Casks
 install openssl
-install php54-mcrypt
 install wget
-install optipng
 install mysql
 install phpunit
-install postgresql
 tap ravenac95/sudolikeaboss
 install sudolikeaboss
 
