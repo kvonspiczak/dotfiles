@@ -170,3 +170,8 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+
+	name = Kevin von Spiczak
+	email = k.vonspiczak@q4u.de
