@@ -20,6 +20,7 @@ cask install beardedspice
 cask install virtualbox
 
 cask install google-chrome
+cask install dropbox
 cask install iterm2
 cask install phpstorm
 
