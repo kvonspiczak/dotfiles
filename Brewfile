@@ -15,7 +15,8 @@ install caskroom/cask/brew-cask
 # Install Casks
 cask install alfred
 cask install flux
-
+cask install spectacle
+cask install beardedspice
 cask install virtualbox
 
 cask install google-chrome
